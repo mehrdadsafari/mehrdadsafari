@@ -6,13 +6,7 @@
 
 ## 📦 I’m publish packages ... 
 
-1. [vue-lunar-calendar-pro](https://www.npmjs.com/package/vue-lunar-calendar-pro):A lunar calendar component for Vue.js.
-1. [cafe-utils](https://www.npmjs.com/package/cafe-utils):A simple util tools.
-1. [hrm-player](https://www.npmjs.com/package/hrm-player):A videojs player component for Vue.js.
-1. [vue-flv-player](https://www.npmjs.com/package/vue-flv-player):A flv.js player component for Vue.js.
-1. [cafe-pdf](https://www.npmjs.com/package/cafe-pdf):A PDF viewer based on mozilla's PDF.js.
-1. [cafe-ofd](https://www.npmjs.com/package/cafe-ofd):A vue component for Ofd.
-1. [element-gui](https://www.npmjs.com/package/element-gui):A Component Library for Vue.js, fork [element-ui](https://github.com/ElemeFE/element).
+1. [Push-Notification-Android](https://android-arsenal.com/details/1/7749):Notification Library For Android.
 
 ## 🔭 I’m currently working with ...
 
